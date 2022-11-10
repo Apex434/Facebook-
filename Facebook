@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title> 
+<style>
+ 		a {text-decoration:none;
+ 		}
+ </style>
+</head>
+<body>
+<h1><center>Facebook</center></h1>
+Mobile number/Email address:<br>
+<input type="text"name="mobile number/email number"style="width:345px;"></br>
+Password:<br>
+<input type="password"name="password">
+<a href="index.com"Log in><p style="background-color: blue; height:35px; text-align: center;padding-top:5px; color:white; padding;border-radius:5px;">Log in</p>
+<a href="index.com"forgotten password?><p style="background-color: white;color: blue; padding;">forgotten password?</a></p>
+<hr>
+<p><center>or</center></p>
+<a href="noname(8).html">
+<p style="background-color: green; color: white; padding; width:200px; text-align: center; margin-left:60px; height:45px; padding-top:15px; border-radius:5px;">Create an account</p></a>
+<p style="color:blue;">English (US)<br>
+ Español(España)<br>
+ More languages........</p>
+</body>
+</html>.
